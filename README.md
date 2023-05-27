@@ -29,7 +29,7 @@ Usage:
         
        
 
-<img width="1440" alt="Screenshot 2023-04-24 at 05 51 27" src="https://github.c
+
 <img width="1440" alt="Screenshot 2023-04-24 at 06 49 52" src="https://github.com/farazulhoda/sshpot/assets/99000767/3be16239-a637-4af5-88f5-f92475d4fe96">
 <img width="1440" alt="Screenshot 2023-04-24 at 06 51 35" src="https://github.com/farazulhoda/sshpot/assets/99000767/0ff286c0-b7dc-4ef9-a9c6-c78569a528f6">
 <img width="1440" src="https://github.com/HaroonArif1/sshpot/assets/99000767/aecbb7bf-ec35-44a9-a06c-a6bd93c73e2f">
