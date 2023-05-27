@@ -1,6 +1,4 @@
-Name:
-
-    sshpot
+#sshpot
 
 
 Description: 
